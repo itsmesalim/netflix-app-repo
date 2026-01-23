@@ -10,7 +10,6 @@ import the_witcher from "../../assets/the_witcher.webp";
 
 const jsonData = [
   {
-    // imgSrc: "/images/dark.jpg",
     imgSrc: darkjpg,
     discription:
       "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur voluptas eos harum quas, cumque optio nihil sint velit voluptatibus vitae dicta esse facere sed fugiat enim assumenda eum temporibus consequatur!",

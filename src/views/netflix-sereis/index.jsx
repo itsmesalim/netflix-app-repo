@@ -3,9 +3,9 @@ import "./style.css";
 import jsonData from "./jsonData";
 
 const NetflixSeries = () => {
+  console.log();
   return (
     <>
-      {/* <div style={netflexContainer} > */}
       <div className="netflex-container">
         {jsonData.map((item, index) => {
           return (
